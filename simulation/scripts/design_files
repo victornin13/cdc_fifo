@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# list of design files to be compiled
+
+	
+ver_files=("../../source/cdc_fifo.v"
+	    	"../../source/read_control_logic.v"
+	       	"../../source/flip_flop_synch.v"
+	       	"../../source/write_control_logic.v"
+	       	"../../source/fifo_memory.v"
+	  "../testbench/cdc_fifo_tb.v")	
+

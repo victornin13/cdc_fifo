@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# list of design files to be compiled
+
+ver_files=("../../synthesis/netlists/cdc_fifo_syn.v"
+	  "../testbench/cdc_fifo_syn_tb.v")	
